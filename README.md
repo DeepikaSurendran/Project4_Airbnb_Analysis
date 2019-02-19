@@ -23,3 +23,8 @@ reviews.csv and reviews_boston.csv - csvs containing the home_id, date of review
 
 Licensing, Authors, Acknowledgements
 Data used are provided through Kaggle by AirBnB : Boston data on Kaggle and for the Seattle data.
+
+
+
+Medium Post : 
+https://medium.com/@deepika.4413/understanding-the-market-of-airbnb-in-seattle-and-boston-5e4a4006030d
