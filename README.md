@@ -9,7 +9,7 @@ Question 1: How are the pricing of the properties in Boston and Seattle? Are the
 
 Question 2: How is the availability of the properties in both cities throughout the year
 
-Question 3:Do the comments of the visitors on a listing give us enough information  to guess the review score of that listing
+Question 3: Do the comments of the visitors on a listing give us enough information  to guess the review score of that listing
 
 #Installations
 
